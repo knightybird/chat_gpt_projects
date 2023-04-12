@@ -1,6 +1,18 @@
+##.env
+.env 
+auth0 webpage https://manage.auth0.com/dashboard/us/dev-34tqn6h4i34rx7bk/applications/7dJtHHipQxsKQo0x2ICfGFCNq65lz3gv/settings
+<br/>.env AUTH0_SECRET run command: ```openssl rand -hex 32```
+
+.env openAPI webpage https://platform.openai.com/account/api-keys
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+localhost:3000/post/new
+<br/>click generate 
+
 
 First, run the development server:
 
